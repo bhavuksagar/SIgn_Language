@@ -9,9 +9,9 @@ link:-https://www.kaggle.com/datamunge/sign-language-mnist
 <h3>Model's Performance</h3>
 
 <h5>Accuracy</h5>
-<img src="accuracy.png>
+<img src="accuracy.png">
 
 <h5>Loss</h5>
-<img src="loss.png>
+<img src="loss.png">
 
 
